@@ -1,0 +1,88 @@
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore virtual environment folders
+venv/
+env/
+
+# Ignore environment variable files
+.env
+*.env
+
+# Ignore logs
+*.log
+logs/
+
+# Ignore MetaTrader 4 files
+*.ex4
+*.ex5
+*.log
+tester/
+MQL4/Logs/
+MQL4/Files/
+
+# Ignore AWS configuration files
+.aws/
+*.pem
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data files
+*.csv
+*.json
+data/
+historical_data/
+
+# Ignore configuration files
+config.ini
+config.yaml
+
+# Ignore cache files
+.cache/
+*.cache
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.iml
+
+# Ignore Python egg files
+*.egg-info/
+*.egg
+.eggs/
+
+# Ignore output files
+output/
+build/
+dist/
+
+# Ignore temporary files
+tmp/
+temp/
+*.tmp
+
+# Ignore backup files
+*.bak
+*.swp
+
+# Ignore compressed files
+*.zip
+*.tar.gz
+*.7z
+
+# Ignore node_modules if using any JS libraries
+node_modules/
+
+# Ignore AWS specific file types
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
