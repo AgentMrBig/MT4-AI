@@ -120,3 +120,5 @@ The trading system will be built as a distributed system, where the MT4 EA acts 
 - AWS Machine Learning Documentation
 - MetaTrader 4 Expert Advisor Documentation
 - Historical Data for USD/JPY (e.g., from Dukascopy or similar providers)
+
+
