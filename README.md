@@ -12,35 +12,35 @@ The MT4-AI Trading System is an advanced algorithmic trading system that integra
 ## Documentation
 The following documents provide detailed information about various aspects of the MT4-AI Trading System. Click on the links to view each document.
 
-### 1. [System Architecture Document](./System%20Architecture%20Document%20MT4-AI.md)
+### 1. [System Architecture Document](./docs/System%20Architecture%20Document%20MT4-AI.md)
    - Provides a detailed overview of the system's architecture, including components, their roles, and interactions within the system.
 
-### 2. [System Design Document](./System%20Design%20Document%20MT4-AI.md)
+### 2. [System Design Document](./docs/System%20Design%20Document%20MT4-AI.md)
    - Details the design specifications, including components, modules, and their interactions within the system.
 
-### 3. [Software Requirements Specification](./Software%20Requirements%20Specification%20MT4-AI.md)
+### 3. [Software Requirements Specification](./docs/Software%20Requirements%20Specification%20MT4-AI.md)
    - Defines the functional and non-functional requirements for the MT4-AI Trading System.
 
-### 4. [API Specification Document](./API%20Specification%20Document%20MT4-AI.md)
+### 4. [API Specification Document](./docs/API%20Specification%20Document%20MT4-AI.md)
    - Details the API endpoints, request/response formats, and security measures for communication between system components.
 
-### 5. [Data Flow Diagram (DFD) Document](./Data%20Flow%20Diagram%20MT4-AI.md)
+### 5. [Data Flow Diagram (DFD) Document](./docs/Data%20Flow%20Diagram%20MT4-AI.md)
    - Outlines the flow of data within the system, ensuring data handling is optimized and secure.
 
-### 6. [Deployment Plan Document](./Deployment%20Plan%20Document%20MT4-AI.md)
+### 6. [Deployment Plan Document](./docs/Deployment%20Plan%20Document%20MT4-AI.md)
    - Outlines the steps and procedures required to deploy the MT4-AI Trading System in a production environment.
 
-### 7. [Security Plan Document](./Security%20Plan%20Document%20MT4-AI.md)
+### 7. [Security Plan Document](./docs/Security%20Plan%20Document%20MT4-AI.md)
    - Details the security measures, protocols, and best practices to protect the system and its data.
 
-### 8. [Test Plan Document](./Test%20Plan%20Document%20MT4-AI.md)
+### 8. [Test Plan Document](./docs/Plan%20Document%20MT4-AI.md)
    - Describes the testing strategy, objectives, and scope for ensuring the system functions as expected.
 
-### 9. [Trading Theory Document](./Trading%20Theory%20MT4-AI.md)
+### 9. [Trading Theory Document](./docs/Trading%20Theory%20MT4-AI.md)
    - Provides a comprehensive overview of the trading strategies and theories that form the foundation of the AI's decision-making process.
 
 ## Getting Started
-To get started with the MT4-AI Trading System, follow the deployment steps outlined in the [Deployment Plan Document](./Deployment%20Plan%20Document%20MT4-AI.md). Ensure that all prerequisites are met, and that the system is properly configured before going live.
+To get started with the MT4-AI Trading System, follow the deployment steps outlined in the [Deployment Plan Document](./docs/Deployment%20Plan%20Document%20MT4-AI.md). Ensure that all prerequisites are met, and that the system is properly configured before going live.
 
 ## Contributing
 Contributions to the MT4-AI Trading System are welcome. If you'd like to contribute, please follow the guidelines in the [Contributing Guide](./CONTRIBUTING.md) (if applicable).
